@@ -21,8 +21,7 @@ As bibliotecas utilizadas:
 
 <h1> <img height="40" width="40" src= "https://github.com/Texugo-928/EDA_Projeto_Sentimento_Musical/assets/89808695/cf928269-db2f-45cf-a5e2-14463fa1408f" />  Equipe </h1>
 
-- Anna Clara Amâncio
-- Cicero Junior
-- Jaisson Italo
-- Mariana Lima
-- Nathália Martins
+|  **Anna Clara Amâncio**  |   **Cicero Junior**   |  **Jaisson Italo**  |  **Mariana Lima** |  **Nathália Martins**  |
+| ---------------- | ---------------------- | ------------------- | ------------------- | ------------------- |
+| <a href="https://www.linkedin.com/in/annaclaraamancio/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  | <a href="https://www.linkedin.com/in/cicero-vicente-de-melo-junior-122336157/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://www.linkedin.com/in/jaissonitalo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://www.linkedin.com/in/mari-oliveira-lima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://www.linkedin.com/in/nathaliamartinss/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
